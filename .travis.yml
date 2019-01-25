@@ -1,0 +1,7 @@
+sudo: required
+language: generic
+services:
+  - docker
+script: 
+  - docker build -t confluent-tools .
+  - docker tag confluent-tools $DOCKER_USERNAME/confluent-tools
