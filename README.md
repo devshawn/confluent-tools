@@ -1,6 +1,6 @@
 # Confluent Tools
 
-[![Build Status](https://travis-ci.org/devshawn/confluent-tools.svg?branch=master)](https://travis-ci.org/devshawn/confluent-tools) [![Docker Build](https://img.shields.io/docker/automated/devshawn/confluent-tools.svg)](https://hub.docker.com/r/devshawn/confluent-tools) [![Docker Build Status](https://img.shields.io/docker/build/devshawn/confluent-tools.svg)](https://hub.docker.com/r/devshawn/confluent-tools) [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
+[![Build Status](https://travis-ci.org/devshawn/confluent-tools.svg?branch=master)](https://travis-ci.org/devshawn/confluent-tools) [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 
 
 
